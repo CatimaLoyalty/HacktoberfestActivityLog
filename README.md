@@ -13,3 +13,4 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 ## Activities
 
 <Current date> <Your Name> <Link to what you did / description>
+02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=1623401ca21ef4e9&sort_by=-priority,position Changed the italian translation of the title.
