@@ -16,4 +16,5 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 
   
   02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=1623401ca21ef4e9&sort_by=-priority,position Changed the italian translation of the title.
+  
   02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=55dcfdac97f49bda&sort_by=-priority,position Added italian translation for changelog
