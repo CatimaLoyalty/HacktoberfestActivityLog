@@ -12,4 +12,5 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 
 ## Activities
 
-<Current date> <Your Name> <Link to what you did / description>
+<Current date> <Your Name> <Link to what you did / description>  
+2022-09-30 [@l1i1s7a]( https://github.com/l1i1s7a ) - [translation]( https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=b7a779d1c893a114&sort_by=-priority,position ) / italian edit
