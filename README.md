@@ -12,6 +12,8 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 
 ## Activities
 <Current date> <Your Name> <Link to what you did / description>
+03-10-2022 - Katarzyna - I did ~50 translations in components Android (Fastlane) and Android for Polish language
+
 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=1623401ca21ef4e9&sort_by=-priority,position Changed the italian translation of the title.
 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=55dcfdac97f49bda&sort_by=-priority,position Added italian translation for changelog  
 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=502bfece59e1216b&sort_by=-priority,position Fixed description translation
