@@ -22,3 +22,4 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 - 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=55dcfdac97f49bda&sort_by=-priority,position Added italian translation for changelog  
 - 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=502bfece59e1216b&sort_by=-priority,position Fixed description translation  
 - 2022-09-30 [@l1i1s7a]( https://github.com/l1i1s7a ) - [translation]( https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=b7a779d1c893a114&sort_by=-priority,position ) / italian edit
+- 04-10-2022 DzambaTz - I did around 70 translations/fixes inside the Android component for the Bosnian language
