@@ -13,6 +13,7 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 
 ## Activities
 - <Current date> <Your Name> <Link to what you did / description>  
+- 05-10-2022 TasfiqulTapu Added 39 new translations to Android for Bengali and Bengali(India) and Changed 7 translations in Android Bengali(India)
 - 03-10-2022 [@lcscosta](https://github.com/lcscosta) https://hosted.weblate.org/translate/catima/catima/pt/?checksum=40aad39530f1c0a4&sort_by=-priority,position Added pt_br translation to new text  
 - 03-10-2022 [@lcscosta](https://github.com/lcscosta) https://hosted.weblate.org/translate/catima/catima/pt/?checksum=ccc391dd0378c270&sort_by=-priority,position Added pt_br translation to new text  
 - 03-10-2022 [@lcscosta](https://github.com/lcscosta) https://hosted.weblate.org/translate/catima/catima/pt/?checksum=4f0dfecf4a17a803&sort_by=-priority,position Fixed pt_br translation after change  
