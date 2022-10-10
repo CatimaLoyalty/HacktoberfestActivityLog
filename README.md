@@ -12,6 +12,7 @@ If you did a talk containing Catima, wrote a blog post or did some translating w
 Breaking the rules WILL end in your PR being marked as spam. This could cause you to get disqualified from Hacktoberfest **forever**.
 
 ## Activities
+- 08-10-2022 [@BootVirtual](https://github.com/BootVirtual) Added 11 new translations and changed 6 translations in Android Romanian
 - 08-10-2022 [@sorikairox](https://github.com/sorikairox) Added 46 new translations and Changed 2 translations for French.
 - 05-10-2022 TasfiqulTapu Added 39 new translations to Android for Bengali and Bengali(India) and Changed 7 translations in Android Bengali(India)
 - 03-10-2022 [@lcscosta](https://github.com/lcscosta) https://hosted.weblate.org/translate/catima/catima/pt/?checksum=40aad39530f1c0a4&sort_by=-priority,position Added pt_br translation to new text  
