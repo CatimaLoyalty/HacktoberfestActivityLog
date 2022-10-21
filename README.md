@@ -12,6 +12,7 @@ If you did a talk containing Catima, wrote a blog post or did some translating w
 Breaking the rules WILL end in your PR being marked as spam. This could cause you to get disqualified from Hacktoberfest **forever**.
 
 ## Activities
+- 21-10-2022 [@70h](https://github.com/70h) Updated its previous Lithuanian translation and completed the remaining strings.
 - 19-10-2022 [@nightshadetvn](https://github.com/nightshadetvn) Completed Polish translation for Catima
 - 15-10-2022 [@Aleuck](https://github.com/Aleuck) Completed Portuguese translation for changelog
 - 12-10-2022 [@sangsatori](https://github.com/sangsatori) Completed Latvian translation. Ran editing pass for idiomatic phrasing and consistency.
