@@ -1,12 +1,14 @@
 # Hacktoberfest Activity Log
 
-Hacktoberfest 2022 allows non-code contributions such as talks, blog posts and translations.
+Hacktoberfest 2023 allows non-code contributions such as talks, blog posts and translations.
 
 If you did a talk containing Catima, wrote a blog post or did some translating work, please make a merge request here to add what you did to this README.
 
+Translations can be done on [Weblate](https://hosted.weblate.org/projects/catima/).
+
 ## Rules
 - Do not translate Catima using Google Translate. That creates more work for me, not less.
-- Try to put some actual effort in your contribution. Contributions that are obviously just rushed to get a free Hacktoberfest shirt quickly are considered spam.
+- Try to put some actual effort in your contribution. Contributions that are obviously just rushed are considered spam.
 - Max 1 translation PR per translator (we want to make sure that the Hacktoberfest team won't consider this repo "spammy", everyone's work should count because it's extremely helpful!)
 
 Breaking the rules WILL end in your PR being marked as spam. This could cause you to get disqualified from Hacktoberfest **forever**.
