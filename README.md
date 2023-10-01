@@ -14,6 +14,7 @@ Translations can be done on [Weblate](https://hosted.weblate.org/projects/catima
 Breaking the rules WILL end in your PR being marked as spam. This could cause you to get disqualified from Hacktoberfest **forever**.
 
 ## Activities
+- 01-10-2023 [@m1ga](https://github.com/m1ga) Added some German Language strings.
 - 25-10-2022 [@rasvanjaya21](https://github.com/rasvanjaya21) Fix and complete last remaining strings in Indonesian Language.
 - 21-10-2022 [@70h](https://github.com/70h) Updated its previous Lithuanian translation and completed the remaining strings.
 - 21-10-2022 [@LegendaryGene](https://github.com/LegendaryGene) Added 37 translations for Hindi Language in Android Hindi
