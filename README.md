@@ -36,3 +36,4 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 - 2022-09-30 [@l1i1s7a]( https://github.com/l1i1s7a ) - [translation]( https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=b7a779d1c893a114&sort_by=-priority,position ) / italian edit
 - 04-10-2022 DzambaTz - I did around 70 translations/fixes inside the Android component for the Bosnian language
 I did 34 translations/changes inside Catima glossary and android component for Hindi language.
+- 01-10-2023 [@ziadOUA](https://github.com/ziadOUA) Translated the remaining Android strings in Italian
