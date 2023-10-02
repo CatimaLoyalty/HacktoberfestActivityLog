@@ -14,7 +14,9 @@ Translations can be done on [Weblate](https://hosted.weblate.org/projects/catima
 Breaking the rules WILL end in your PR being marked as spam. This could cause you to get disqualified from Hacktoberfest **forever**.
 
 ## Activities
+
 - 01-10-2023 [@mohit](https://github.com/mohitahlawat2001) Added and fix some strings in Hindi Language.
+- 01-10-2023 [@mvteus](https://github.com/mvteus) Added translations and fix some Portuguese Language (pt_br) strings to catima (19) and fastlane (3).
 - 01-10-2023 [@m1ga](https://github.com/m1ga) Added some German Language strings.
 - 25-10-2022 [@rasvanjaya21](https://github.com/rasvanjaya21) Fix and complete last remaining strings in Indonesian Language.
 - 21-10-2022 [@70h](https://github.com/70h) Updated its previous Lithuanian translation and completed the remaining strings.
@@ -37,3 +39,4 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 - 2022-09-30 [@l1i1s7a]( https://github.com/l1i1s7a ) - [translation]( https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=b7a779d1c893a114&sort_by=-priority,position ) / italian edit
 - 04-10-2022 DzambaTz - I did around 70 translations/fixes inside the Android component for the Bosnian language
 I did 34 translations/changes inside Catima glossary and android component for Hindi language.
+- 01-10-2023 [@ziadOUA](https://github.com/ziadOUA) Translated the remaining Android strings in Italian
