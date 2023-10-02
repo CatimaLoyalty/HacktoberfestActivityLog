@@ -14,6 +14,8 @@ Translations can be done on [Weblate](https://hosted.weblate.org/projects/catima
 Breaking the rules WILL end in your PR being marked as spam. This could cause you to get disqualified from Hacktoberfest **forever**.
 
 ## Activities
+
+- 01-10-2023 [@mohit](https://github.com/mohitahlawat2001) Added and fix some strings in Hindi Language.
 - 01-10-2023 [@mvteus](https://github.com/mvteus) Added translations and fix some Portuguese Language (pt_br) strings to catima (19) and fastlane (3).
 - 01-10-2023 [@m1ga](https://github.com/m1ga) Added some German Language strings.
 - 25-10-2022 [@rasvanjaya21](https://github.com/rasvanjaya21) Fix and complete last remaining strings in Indonesian Language.
