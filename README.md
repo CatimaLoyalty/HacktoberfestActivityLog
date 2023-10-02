@@ -15,6 +15,7 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 
 ## Activities
 
+- 02-10-2023 [g0v1ndN](https://github.com/g0v1ndN) Kicked off Malayalam translations, progressing to 25% completion.
 - 01-10-2023 [@mohit](https://github.com/mohitahlawat2001) Added and fix some strings in Hindi Language.
 - 01-10-2023 [@mvteus](https://github.com/mvteus) Added translations and fix some Portuguese Language (pt_br) strings to catima (19) and fastlane (3).
 - 01-10-2023 [@m1ga](https://github.com/m1ga) Added some German Language strings.
