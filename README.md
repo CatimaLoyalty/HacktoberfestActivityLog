@@ -23,7 +23,7 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 - 25-10-2022 [@rasvanjaya21](https://github.com/rasvanjaya21) Fix and complete last remaining strings in Indonesian Language.
 - 21-10-2022 [@70h](https://github.com/70h) Updated its previous Lithuanian translation and completed the remaining strings.
 - 21-10-2022 [@LegendaryGene](https://github.com/LegendaryGene) Added 37 translations for Hindi Language in Android Hindi
-- 19-10-2022 [@nightshadetvn](https://github.com/nightshadetvn) Completed Polish translation for Catima
+- 19-10-2022 [@rudy3333](https://github.com/rudy3333) Completed Polish translation for Catima
 - 15-10-2022 [@Aleuck](https://github.com/Aleuck) Completed Portuguese translation for changelog
 - 12-10-2022 [@sangsatori](https://github.com/sangsatori) Completed Latvian translation. Ran editing pass for idiomatic phrasing and consistency.
 - 11-10-2022 [@Kol-UI](https://github.com/Kol-UI) Added last French translations that remained 
@@ -43,3 +43,4 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 I did 34 translations/changes inside Catima glossary and android component for Hindi language.
 - 01-10-2023 [@ziadOUA](https://github.com/ziadOUA) Translated the remaining Android strings in Italian
 - 04-10-2023 https://hosted.weblate.org/translate/catima/catima/hi/?checksum=07f7cfb37b087d85  Translation for Hindi Language in Android.
+- 04-10-2023 [@rudy3333](https://github.com/rudy3333) Added ~100 Polish translations (and still counting!) to Caitma Android Fastlane.
