@@ -42,3 +42,4 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 - 04-10-2022 DzambaTz - I did around 70 translations/fixes inside the Android component for the Bosnian language
 I did 34 translations/changes inside Catima glossary and android component for Hindi language.
 - 01-10-2023 [@ziadOUA](https://github.com/ziadOUA) Translated the remaining Android strings in Italian
+- 04-10-2023 https://hosted.weblate.org/translate/catima/catima/hi/?checksum=07f7cfb37b087d85  Translation for Hindi Language in Android.
