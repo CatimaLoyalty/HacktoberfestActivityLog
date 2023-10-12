@@ -45,3 +45,4 @@ I did 34 translations/changes inside Catima glossary and android component for H
 - 04-10-2023 https://hosted.weblate.org/translate/catima/catima/hi/?checksum=07f7cfb37b087d85  Translation for Hindi Language in Android.
 - 04-10-2023 [@rudy3333](https://github.com/rudy3333) Added ~100 Polish translations (and still counting!) to Caitma Android Fastlane.
 - 08-10-2023 [@vibrantfix](https://github.com/vibrantfix) Added new `Kannada` translation.
+- 12-10-2023 https://hosted.weblate.org/user/shivamanujkumar01/#changes Translation in hindi language in Android.
