@@ -45,3 +45,4 @@ I did 34 translations/changes inside Catima glossary and android component for H
 - 04-10-2023 https://hosted.weblate.org/translate/catima/catima/hi/?checksum=07f7cfb37b087d85  Translation for Hindi Language in Android.
 - 04-10-2023 [@rudy3333](https://github.com/rudy3333) Added ~100 Polish translations (and still counting!) to Caitma Android Fastlane.
 - 08-10-2023 [@vibrantfix](https://github.com/vibrantfix) Added new `Kannada` translation.
+- 12-10-2023 [@VirginieLemaire](https://github.com/VirginieLemaire) added new [`app-name` translation](https://hosted.weblate.org/translate/catima/catima/fr/?sort_by=-priority%2Cposition&offset=1) for Android bringing translation to 100% + Android (Fastlane) : [changelog awaiting for translation](https://hosted.weblate.org/translate/catima/fastlane/fr/?q=state%3A%3Ctranslated&offset=1), [reduced length of this translation but still too long](https://hosted.weblate.org/translate/catima/fastlane/fr/?q=state:%3Ctranslated)
