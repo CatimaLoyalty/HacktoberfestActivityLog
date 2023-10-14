@@ -33,7 +33,7 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 - 03-10-2022 [@lcscosta](https://github.com/lcscosta) https://hosted.weblate.org/translate/catima/catima/pt/?checksum=40aad39530f1c0a4&sort_by=-priority,position Added pt_br translation to new text  
 - 03-10-2022 [@lcscosta](https://github.com/lcscosta) https://hosted.weblate.org/translate/catima/catima/pt/?checksum=ccc391dd0378c270&sort_by=-priority,position Added pt_br translation to new text  
 - 03-10-2022 [@lcscosta](https://github.com/lcscosta) https://hosted.weblate.org/translate/catima/catima/pt/?checksum=4f0dfecf4a17a803&sort_by=-priority,position Fixed pt_br translation after change  
-- 03-10-2022 - Katarzyna - I did ~50 translations in components Android (Fastlane) and Android for Polish language
+- 03-10-2022 [@kat-kan](https://github.com/kat-kan) - I did ~50 translations in components Android (Fastlane) and Android for Polish language
 - 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=1623401ca21ef4e9&sort_by=-priority,position Changed the italian translation of the title.  
 - 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=1623401ca21ef4e9&sort_by=-priority,position Changed the italian translation of the title.
 - 02-10-2022 Jacopo https://hosted.weblate.org/translate/catima/fastlane/it/?checksum=55dcfdac97f49bda&sort_by=-priority,position Added italian translation for changelog  
@@ -47,3 +47,4 @@ I did 34 translations/changes inside Catima glossary and android component for H
 - 08-10-2023 [@vibrantfix](https://github.com/vibrantfix) Added new `Kannada` translation.
 - 12-10-2023 [@VirginieLemaire](https://github.com/VirginieLemaire) added new [`app-name` translation](https://hosted.weblate.org/translate/catima/catima/fr/?sort_by=-priority%2Cposition&offset=1) for Android bringing translation to 100% + Android (Fastlane) : [changelog awaiting for translation](https://hosted.weblate.org/translate/catima/fastlane/fr/?q=state%3A%3Ctranslated&offset=1)
 - 14-10-2023: [@VirginieLemaire](https://github.com/VirginieLemaire) fixed max length problems on French Android (Fastlane) : [translation 99 ](https://hosted.weblate.org/translate/catima/fastlane/fr/?&offset=99), fixed 7/7 "Translated strings with dismissed checks" which brings Android (Fastlane) French translation to 100% and created French translation for Android (Debug). French translation is finished
+- 14-10-2023: [@kat-kan](https://github.com/kat-kan) Added ~40 Polish translation in Android Fastlane project (changelogs)
