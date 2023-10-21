@@ -46,8 +46,10 @@ I did 34 translations/changes inside Catima glossary and android component for H
 - 04-10-2023 https://hosted.weblate.org/translate/catima/catima/hi/?checksum=07f7cfb37b087d85  Translation for Hindi Language in Android.
 - 04-10-2023 [@rudy3333](https://github.com/rudy3333) Added ~100 Polish translations (and still counting!) to Caitma Android Fastlane.
 - 08-10-2023 [@vibrantfix](https://github.com/vibrantfix) Added new `Kannada` translation.
+- 12-10-2023 [@StoyanDimitrov](https://github.com/StoyanDimitrov) Translated the remaining untranslated strings and several Fastline entries for Bulgarian.
 - 12-10-2023 [@VirginieLemaire](https://github.com/VirginieLemaire) added new [`app-name` translation](https://hosted.weblate.org/translate/catima/catima/fr/?sort_by=-priority%2Cposition&offset=1) for Android bringing translation to 100% + Android (Fastlane) : [changelog awaiting for translation](https://hosted.weblate.org/translate/catima/fastlane/fr/?q=state%3A%3Ctranslated&offset=1)
 - 14-10-2023: [@VirginieLemaire](https://github.com/VirginieLemaire) fixed max length problems on French Android (Fastlane) : [translation 99 ](https://hosted.weblate.org/translate/catima/fastlane/fr/?&offset=99), fixed 7/7 "Translated strings with dismissed checks" which brings Android (Fastlane) French translation to 100% and created French translation for Android (Debug). French translation is finished
 - 14-10-2023: [@cnfranco](https://github.com/cnfranco) added new translations for Portuguese Language in Android (Fastlane).
 - 14-10-2023: [@kat-kan](https://github.com/kat-kan) Added ~40 Polish translation in Android Fastlane project (changelogs)
 - 15-10-2023: [@depimomo](https://github.com/depimomo) reviewed and updated 18 translations for Indonesian Language in Android (Fastlane).
+
