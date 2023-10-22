@@ -52,4 +52,5 @@ I did 34 translations/changes inside Catima glossary and android component for H
 - 14-10-2023: [@cnfranco](https://github.com/cnfranco) added new translations for Portuguese Language in Android (Fastlane).
 - 14-10-2023: [@kat-kan](https://github.com/kat-kan) Added ~40 Polish translation in Android Fastlane project (changelogs)
 - 15-10-2023: [@depimomo](https://github.com/depimomo) reviewed and updated 18 translations for Indonesian Language in Android (Fastlane).
+- 21-10-2023: [@ankur-dahiya](https://github.com/ankur-dahiya) added 42 new translations for Hindi Language in 	catima/android-debug and catima/android
 
