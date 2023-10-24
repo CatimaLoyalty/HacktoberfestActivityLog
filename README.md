@@ -15,6 +15,7 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 
 ## Activities
 
+- 22-10-2023 [Tizzz-555](https://github.com/Tizzz-555) Added translations and comments for Italian translation
 - 19-10-2023 [Khuirul-Huda](https://github.com/Khuirul-Huda) Added translations and correct some grammar mistakes for Indonesian
 - 17-10-2023 [kshjessica](http://github.com/kshjessica) Completed Korean translation by adding and fixing remains. 
 - 03-10-2023 [ngdangtu](https://github.com/ngdangtu-vn) Kicked off Vietnamese translations, progressing to 92% completion of Android component.
