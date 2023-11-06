@@ -15,6 +15,9 @@ Breaking the rules WILL end in your PR being marked as spam. This could cause yo
 
 ## Activities
 
+- 28-10-2023 [nehareddies](https://github.com/nehareddies) Added translations for kannada translation
+- 22-10-2023 [Tizzz-555](https://github.com/Tizzz-555) Added translations and comments for Italian translation
+- 19-10-2023 [Khuirul-Huda](https://github.com/Khuirul-Huda) Added translations and correct some grammar mistakes for Indonesian
 - 17-10-2023 [kshjessica](http://github.com/kshjessica) Completed Korean translation by adding and fixing remains. 
 - 03-10-2023 [ngdangtu](https://github.com/ngdangtu-vn) Kicked off Vietnamese translations, progressing to 92% completion of Android component.
 - 02-10-2023 [g0v1ndN](https://github.com/g0v1ndN) Kicked off Malayalam translations, progressing to 25% completion.
@@ -52,5 +55,11 @@ I did 34 translations/changes inside Catima glossary and android component for H
 - 14-10-2023: [@cnfranco](https://github.com/cnfranco) added new translations for Portuguese Language in Android (Fastlane).
 - 14-10-2023: [@kat-kan](https://github.com/kat-kan) Added ~40 Polish translation in Android Fastlane project (changelogs)
 - 15-10-2023: [@depimomo](https://github.com/depimomo) reviewed and updated 18 translations for Indonesian Language in Android (Fastlane).
-- 22-10-2023: [@Rohan-GIT109](https://github.com/Rohan-GIT109) Started the Marathi translation, completed about 15%.
+
+- 22-10-2023: [@Rohan-GIT109](https://github.com/Rohan-GIT109) Started the Marathi translation, completed about 33%.
+
+
+- 21-10-2023: [@ankur-dahiya](https://github.com/ankur-dahiya) added 42 new translations for Hindi Language in 	catima/android-debug and catima/android
+- 25-10-2023: [@ATiwari2000](https://github.com/ATiwari2000) added 31 new translations for Hindi Language in catima/fastlane and catima/android
+- 27-10-2023: [@OMCM753](https://github.com/OMCM753) added new translations for Spanish in Android Fastlane (changelogs).
 
