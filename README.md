@@ -1,6 +1,6 @@
 # Hacktoberfest Activity Log
 
-Hacktoberfest 2023 allows non-code contributions such as talks, blog posts and translations.
+Hacktoberfest 2024 allows non-code contributions such as talks, blog posts and translations.
 
 If you did a talk containing Catima, wrote a blog post or did some translating work, please make a merge request here to add what you did to this README.
 
