@@ -14,6 +14,7 @@ Translations can be done on [Weblate](https://hosted.weblate.org/projects/catima
 Breaking the rules WILL end in your PR being marked as spam. This could cause you to get disqualified from Hacktoberfest **forever**.
 
 ## Activities
+- 26-10-2025 [Rajasree2004](https://github.com/Rajasree2004) Added translation for tamil
 - 02-10-2025 [GideonBear](https://github.com/GideonBear) Finished/updated Dutch translations
 - 28-10-2023 [Anugya43](https://github.com/Anugya43) Added translations for kannada translation
 - 28-10-2023 [nehareddies](https://github.com/nehareddies) Added translations for kannada translation
